@@ -1,0 +1,7 @@
+*.log
+yarn-error.log*
+.cache/
+build/
+npm-debug.log*
+.next/
+dist/
